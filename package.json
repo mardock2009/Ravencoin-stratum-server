@@ -1,0 +1,67 @@
+{
+  "_from": "git+https://github.com/cryptopoolorg/cyberpool-ravencoin-stratum.git",
+  "_id": "stratum-pool@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/stratum-pool",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://github.com/cryptopoolorg/cyberpool-ravencoin-stratum.git",
+    "rawSpec": "git+https://github.com/cryptopoolorg/cyberpool-ravencoin-stratum.git",
+    "saveSpec": "git+https://github.com/cryptopoolorg/cyberpool-ravencoin-stratum.git",
+    "fetchSpec": "git+https://github.com/cryptopoolorg/cyberpool-ravencoin-stratum.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/cryptopoolorg/cyberpool-ravencoin-stratum.git",
+  "_spec": "git+https://github.com/cryptopoolorg/cyberpool-ravencoin-stratum.git",
+  "_where": "/home/pool/cyberpool-ravencoin-stratum",
+  "author": {
+    "name": "Cyber Pool"
+  },
+  "bugs": {
+    "url": "https://github.com/cryptopoolorg/cyberpool-ravencoin-stratum/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Cyber Harry"
+    }
+  ],
+  "dependencies": {
+    "async": "*",
+    "base58-native": "*",
+    "big-integer": "^1.6.48",
+    "bignum": "^0.13.1",
+    "bitcoinjs-lib": "git+https://github.com/cyberpoolorg/bitcoinjs-lib.git",
+    "merkle-bitcoin": "*",
+    "promise": "*",
+    "sha3": "*"
+  },
+  "deprecated": false,
+  "description": "High performance Stratum Server in Node.js for Ravencoin",
+  "engines": {
+    "node": ">=8.17.0"
+  },
+  "homepage": "https://github.com/cryptopoolorg/cyberpool-ravencoin-stratum",
+  "keywords": [
+    "stratum",
+    "mining",
+    "server",
+    "stratumserver",
+    "Ravencoin",
+    "KawPoW"
+  ],
+  "license": "GPL-3.0",
+  "main": "lib/index.js",
+  "name": "stratum-pool",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cryptopoolorg/cyberpool-ravencoin-stratum.git"
+  },
+  "version": "1.0.0"
+}
