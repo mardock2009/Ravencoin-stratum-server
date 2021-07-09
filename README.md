@@ -10,7 +10,7 @@ Fixed Version Working With Cli GetKawPoWHash And GetKawPoWDiff !
 Fixed NiceHash Compatibility !
 
 ### Donates for developers of Cyberpool Ravencoin Server
-```
+
 * BTC - `1H8Ze41raYGXYAiLAEiN12vmGH34A7cuua`
 * LTC - `LSE19SHK3DMxFVyk35rhTFaw7vr1f8zLkT`
 * ZEC - `t1NTX2qJAhQrEdTRNaqVckznNMaqUSwPLvp`
