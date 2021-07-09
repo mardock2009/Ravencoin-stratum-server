@@ -45,7 +45,7 @@
   "deprecated": false,
   "description": "High performance Stratum Server in Node.js for Ravencoin",
   "engines": {
-    "node": ">=8.17.0"
+    "node": ">=12.13.0"
   },
   "homepage": "https://github.com/cryptopoolorg/cyberpool-ravencoin-stratum",
   "keywords": [
