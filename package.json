@@ -36,8 +36,7 @@
     "async": "*",
     "base58-native": "*",
     "big-integer": "^1.6.48",
-    "bignum": "^0.13.1",
-    "bitcoinjs-lib": "git+https://github.com/cyberpoolorg/bitcoinjs-lib.git",
+    "bitcoinjs-lib": "^5.2.0",
     "merkle-bitcoin": "*",
     "promise": "*",
     "sha3": "*"
