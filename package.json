@@ -37,7 +37,7 @@
     "big-integer": "^1.6.48",
     "bitcoinjs-lib": "^5.2.0",
     "merkle-bitcoin": "^1.0.2",
-    "promise": "^8.1.0",
+    "promise": "^8.1.0"
   },
   "deprecated": false,
   "description": "High performance Stratum Server in Node.js for Ravencoin",
