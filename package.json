@@ -1,6 +1,6 @@
 {
   "_from": "git+https://github.com/cryptopoolorg/cyberpool-ravencoin-stratum.git",
-  "_id": "stratum-pool@1.0.0",
+  "_id": "stratum-pool@1.0.1",
   "_inBundle": false,
   "_integrity": "",
   "_location": "/stratum-pool",
@@ -39,7 +39,6 @@
     "bitcoinjs-lib": "^5.2.0",
     "merkle-bitcoin": "*",
     "promise": "*",
-    "sha3": "*"
   },
   "deprecated": false,
   "description": "High performance Stratum Server in Node.js for Ravencoin",
@@ -62,5 +61,5 @@
     "type": "git",
     "url": "git+https://github.com/cryptopoolorg/cyberpool-ravencoin-stratum.git"
   },
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
