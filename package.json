@@ -1,5 +1,5 @@
 {
-  "_from": "git+https://github.com/cryptopoolorg/cyberpool-ravencoin-stratum.git",
+  "_from": "git+https://github.com/mardock2009/Ravencoin-stratum-server.git",
   "_id": "stratum-pool@1.0.1",
   "_inBundle": false,
   "_integrity": "",
@@ -7,10 +7,10 @@
   "_phantomChildren": {},
   "_requested": {
     "type": "git",
-    "raw": "git+https://github.com/cryptopoolorg/cyberpool-ravencoin-stratum.git",
-    "rawSpec": "git+https://github.com/cryptopoolorg/cyberpool-ravencoin-stratum.git",
-    "saveSpec": "git+https://github.com/cryptopoolorg/cyberpool-ravencoin-stratum.git",
-    "fetchSpec": "git+https://github.com/cryptopoolorg/cyberpool-ravencoin-stratum.git",
+    "raw": "git+https://github.com/mardock2009/Ravencoin-stratum-server.git",
+    "rawSpec": "git+https://github.com/mardock2009/Ravencoin-stratum-server.git",
+    "saveSpec": "git+https://github.com/mardock2009/Ravencoin-stratum-server.git",
+    "fetchSpec": "git+https://github.com/mardock2009/Ravencoin-stratum-server.git",
     "gitCommittish": null
   },
   "_requiredBy": [
@@ -24,7 +24,7 @@
     "name": "Cyber Pool"
   },
   "bugs": {
-    "url": "https://github.com/cryptopoolorg/cyberpool-ravencoin-stratum/issues"
+    "url": "https://github.com/mardock2009/Ravencoin-stratum-server/issues"
   },
   "bundleDependencies": false,
   "contributors": [
@@ -44,7 +44,7 @@
   "engines": {
     "node": ">=12.22.6"
   },
-  "homepage": "https://github.com/cryptopoolorg/cyberpool-ravencoin-stratum",
+  "homepage": "https://github.com/mardock2009/Ravencoin-stratum-server",
   "keywords": [
     "stratum",
     "mining",
@@ -58,7 +58,7 @@
   "name": "stratum-pool",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cryptopoolorg/cyberpool-ravencoin-stratum.git"
+    "url": "git+https://github.com/mardock2009/Ravencoin-stratum-server.git"
   },
   "version": "1.0.1"
 }
